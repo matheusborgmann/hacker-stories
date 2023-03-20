@@ -46,7 +46,7 @@ const List = (props) =>
       <span>{item.author}</span>
       <span>{item.num_comments}</span>
       <span>{item.points}</span>
-    </div>
+    </div> 
   ));
 
 export default App;
