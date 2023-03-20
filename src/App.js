@@ -21,7 +21,7 @@ const list = [
 
 const App = () => (
   <div>
-    <h1>My Hacker Stories</h1>
+    <h1>My Hacker Storieses</h1>
 
     <label htmlFor="search">Search: </label>
     <input id="search" type="text" />
